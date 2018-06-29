@@ -1,1 +1,7 @@
-# abaqus-
+# abaqus技巧
+
+## Abaqus 常用快捷键
+旋转：Ctrl+Alt+左键
+
+## Abaqus 设置相关
+改变背景：主菜单》view》graphics options
