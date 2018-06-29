@@ -5,5 +5,6 @@
 
 ## Abaqus 设置相关
 改变背景：主菜单》view》graphics options
-
-<div align=center><img src="https://github.com/youshenfan/abaqus-/blob/master/pics/abaqus-background.PNG"/></div>
+<div align=center>
+![Abaqus Background](https://github.com/youshenfan/abaqus-/blob/master/pics/abaqus-background.PNG)
+ <div>
