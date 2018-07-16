@@ -8,13 +8,13 @@ https://wenku.baidu.com/view/ee78ab75f242336c1eb95e52.html
 缩放：Ctrl+Alt+右键
 
 ## Abaqus 设置相关
-改变背景：主菜单 > view > graphics options > Viewport Background > Solid
+改变背景：主菜单 > view > graphics options 》 Viewport Background > Solid
 <div align=center>
 
 ![Abaqus Background](https://github.com/youshenfan/abaqus-/blob/master/pics/abaqus-background.PNG)
 </div>
 
-打开多个显示窗口：主菜单>tools>query
+打开多个显示窗口：主菜单 > tools > query 》Visualization Module Queries > Ply stack plot
 <div align=center>
 
 ![Abaqus Multiplot](https://github.com/youshenfan/Abaqus/blob/master/pics/abaqus-ply%20stack%20plot.PNG)
