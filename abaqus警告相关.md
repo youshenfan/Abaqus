@@ -1,6 +1,5 @@
-# elements are distorted
-## Warnings：
-2406 elements are distorted. Either the isoparametric angles are out of the suggested limits or the triangular or tetrahedral quality measure is bad. The elements have been identified in element set WarnElemDistorted.
+# Warnings：
+2406 <b>elements are distorted</b>. Either the isoparametric angles are out of the suggested limits or the triangular or tetrahedral quality measure is bad. The elements have been identified in element set WarnElemDistorted.
 
 There are 1 warning messages in the data (.dat) file.  Please check the data file for possible errors in the input file.
 
@@ -10,6 +9,5 @@ There are 1 warning messages in the data (.dat) file.  Please check the data fil
 ## Solution：
 优化网格，将网格画的漂亮一些。
 
-# The *shear failure option will not be supported in the future release
-## Warnings:
+# Warnings:
 <b>The *shear failure option will not be supported in the future release.</b> Please use *damage initiation and *damage evolution options for modeling progressive damage and failure of materials
