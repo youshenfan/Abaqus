@@ -15,6 +15,14 @@ https://wenku.baidu.com/view/ee78ab75f242336c1eb95e52.html
 </div>
 
 打开多个显示窗口：主菜单>tools>query
+<div align=center>
+
+![Abaqus Multiplot](https://github.com/youshenfan/Abaqus/blob/master/pics/abaqus-ply%20stack%20plot.PNG)
+![Abaqus Multiplot](https://github.com/youshenfan/Abaqus/blob/master/pics/abaqus-ply%20stack%20plot2.PNG)
+
+</div>
+
+
 
 ## Abaqus中Johnson Cook 模型的设置
 
