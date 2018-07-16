@@ -6,8 +6,7 @@
 缩放：Ctrl+Alt+右键
 
 ## Abaqus 设置相关
-改变背景：主菜单》view》graphics options
+改变背景：主菜单 > view > graphics options > Viewport Background > Solid
 <div align=center>
-
 ![Abaqus Background](https://github.com/youshenfan/abaqus-/blob/master/pics/abaqus-background.PNG)
 </div>
