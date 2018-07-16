@@ -1,4 +1,4 @@
-Abaqus 手册：https://classes.engineering.wustl.edu/2009/spring/mase5513/abaqus/docs/v6.6/books/usi/default.htm
+Abaqus 手册：https://classes.engineering.wustl.edu/2009/spring/mase5513/abaqus/docs/v6.6/index.html
 # abaqus技巧
 
 ## Abaqus 常用快捷键
@@ -12,3 +12,6 @@ Abaqus 手册：https://classes.engineering.wustl.edu/2009/spring/mase5513/abaqu
 
 ![Abaqus Background](https://github.com/youshenfan/abaqus-/blob/master/pics/abaqus-background.PNG)
 </div>
+
+
+## Abaqus中Johson Cook 模型的设置
