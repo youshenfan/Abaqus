@@ -1,3 +1,4 @@
+Abaqus 手册：https://classes.engineering.wustl.edu/2009/spring/mase5513/abaqus/docs/v6.6/books/usi/default.htm
 # abaqus技巧
 
 ## Abaqus 常用快捷键
