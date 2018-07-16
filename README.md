@@ -22,6 +22,8 @@ https://wenku.baidu.com/view/ee78ab75f242336c1eb95e52.html
 
 </div>
 
+导入材料库
+Abaqus提供材料库接口，以*.lib文件进行存储
 
 
 ## Abaqus中Johnson Cook 模型的设置
@@ -32,3 +34,6 @@ Abaqus中计算Johnson-Cook需要的参数有：a,b,c,m,n,参考应变,以及破
 
 ## Abaqus 各文件的用途
 abaqus.rpy  记录一次操作中几乎所有的ABAQUS/CAE命令
+
+## Abaqus中运行inp文件的几种方法：
+http://blog.sina.com.cn/s/blog_56d5b3b001018dfm.html
