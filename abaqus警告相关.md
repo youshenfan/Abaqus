@@ -12,4 +12,4 @@ There are 1 warning messages in the data (.dat) file.  Please check the data fil
 
 # The *shear failure option will not be supported in the future release
 ## Warnings:
-The *shear failure option will not be supported in the future release. Please use *damage initiation and *damage evolution options for modeling progressive damage and failure of materials
+<b>The *shear failure option will not be supported in the future release.</b> Please use *damage initiation and *damage evolution options for modeling progressive damage and failure of materials
