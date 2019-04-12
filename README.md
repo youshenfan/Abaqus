@@ -4,7 +4,9 @@ https://wenku.baidu.com/view/ee78ab75f242336c1eb95e52.html
 
 ## Abaqus 常用快捷键
 旋转：Ctrl+Alt+左键
+
 平移：Ctrl+Alt+中键
+
 缩放：Ctrl+Alt+右键
 
 ## Abaqus 设置相关
@@ -23,12 +25,14 @@ https://wenku.baidu.com/view/ee78ab75f242336c1eb95e52.html
 </div>
 
 导入材料库
+
 Abaqus提供材料库接口，以*.lib文件进行存储
 
 
 ## Abaqus中Johnson Cook 模型的设置
 
 Johnson-Cook模型是一种金属材料变形级破坏行为的本构模型，其参数通过试验测量（知网上有文献专门介绍测试方法）。
+
 Abaqus中计算Johnson-Cook需要的参数有：a,b,c,m,n,参考应变,以及破坏参数D1~D5，每个参数的意思在帮助文档中都会有详细的说明。
 
 
